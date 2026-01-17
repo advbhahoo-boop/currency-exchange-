@@ -1,0 +1,5 @@
+{
+  "name": "RK Currency Exchange - Demo",
+  "description": "A demo currency exchange application named 'RK Currency Exchange' with simulated buying and converting of currencies. This application is for demonstration purposes only and involves no real money.",
+  "requestFramePermissions": []
+}
